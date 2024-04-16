@@ -106,7 +106,13 @@ body {
     align-items: center;
     justify-content: left;
     margin-left: 5rem;
-
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
+    a:visited{
+        color: #fff;
+    }
     h1 {
         font-size: 35px;
         font-weight: 100;
