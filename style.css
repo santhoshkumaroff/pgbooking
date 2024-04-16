@@ -201,7 +201,7 @@ body {
         }
         .linkstand{
             position: absolute;
-            transform: translateX(310px);
+            transform: translateX(320px);
             width: 30px;
             height: 40px;
             margin-top: 8px;
