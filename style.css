@@ -195,9 +195,10 @@ body {
         }
         .linkstand{
             position: absolute;
-            transform: translateX(300px);
+            transform: translateX(310px);
             width: 30px;
-            height: 50px;
+            height: 40px;
+            margin-top: 8px;
             background-color: #000;
             border-width: 0 2px;
             border-color: #fff;
